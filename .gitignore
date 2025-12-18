@@ -1,0 +1,13 @@
+# Sanal Ortamlar
+venv/
+env/
+.env
+.ipynb_checkpoints/
+
+# Python Derleme Dosyaları
+__pycache__/
+*.pyc
+
+# IDE Ayarları
+.vscode/
+.idea/
