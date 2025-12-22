@@ -33,3 +33,16 @@ An advanced Deep Learning project that predicts the directional movement of the 
 1. **Install Dependencies:**
    ```bash
    pip install numpy pandas yfinance scikit-learn tensorflow matplotlib
+
+## 📜 License / Lisans
+**Copyright © 2025 Yiğit Özdemir**
+
+This project is created for **educational and portfolio purposes only**.
+* You are free to view, download, and learn from the code.
+* You **may not** use this code for commercial purposes.
+* You **may not** redistribute or modify this code without explicit permission.
+
+*Bu proje sadece eğitim ve portföy amaçlı oluşturulmuştur.*
+* *Kodları inceleyebilir ve öğrenebilirsiniz.*
+* *Bu kodu ticari amaçlarla **kullanamazsınız**.*
+* *İzin almadan kodu dağıtamaz veya değiştiremezsiniz.*
