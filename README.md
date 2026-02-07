@@ -20,6 +20,10 @@ An advanced Deep Learning project that predicts the directional movement of the 
 * `main.py` / `LSTM_GRU_finance.py`: The core training script for the LSTM model.
 * `backtest.py`: Standard backtesting engine (Price & Technicals only).
 * `backtest_v2.py`: **Advanced** engine with VIX integration, lower decision thresholds, and offline capabilities.
+* `backtest_v3_bist.py`: **Borsa Istanbul (BIST) Edition.**
+  * Analyzes Turkish stocks (e.g., ASELS, THYAO).
+  * Uses **USD/TRY** currency rates instead of VIX as the macro-economic risk indicator.
+  * Adapted for high-inflation market dynamics.
 
 ## 📊 Performance Highlights
 * **Accuracy:** Achieved **~67% accuracy** on 3-Month (Quarterly) trend predictions.
